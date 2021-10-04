@@ -8,7 +8,7 @@ This project is Live hare [Legend Coaching Center](https://legend-coaching-cente
 
 In the project you can see:
 
-### `Carousoul
+### `Carousoul`
 
 The Thumb is Made with react Bootstrap carousol
 

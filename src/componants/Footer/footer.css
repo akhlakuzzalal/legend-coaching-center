@@ -1,0 +1,12 @@
+.footer-contant{
+   background-color: rgba(0, 0, 0, 0.822);
+   color: white;
+   padding-left: 30px;
+   padding-top: 20px;
+   padding-bottom: 30px;
+   display: flex;
+   justify-content: space-around;
+}
+.footer{
+line-height: 8px;
+}

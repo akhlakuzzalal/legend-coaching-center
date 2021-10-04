@@ -1,0 +1,65 @@
+[
+   {
+      "key": 1,
+      "name": "Math",
+      "CourseFee": 1200,
+      "CourseDetail": "Mathematics helps us understand the world and provides an effective way of building mental discipline.",
+      "CourseThumb": "https://frankvmat2020.files.wordpress.com/2020/06/realistic-math-chalkboard-background_23-2148154055.jpg"
+   },
+   {
+      "key": 2,
+      "name": "Physics",
+      "CourseFee": 1000,
+      "CourseDetail": "Physics helps us to organize the universe. It deals with fundamentals, and helps us to see the connections between seemly disparate phenomena.",
+      "CourseThumb": "https://www.voicesofyouth.org/sites/voy/files/images/2020-08/physics-1-1024x576.jpg"
+   },
+   {
+      "key": 3,
+      "name": "Chemistry",
+      "CourseFee": 1400,
+      "CourseDetail": "Chemistry is important because everything you do is chemistry! Even your body is made of chemicals. Chemical reactions occur when you breathe, eat, or just sit there reading.",
+      "CourseThumb": "https://assets.ltkcontent.com/images/44568/chemistry-beakers_0066f46bde.jpg"
+   },
+   {
+      "key": 4,
+      "name": "Biology",
+      "CourseFee": 1100,
+      "CourseDetail": "As a field of science, biology helps us understand the living world and the ways its many species (including humans) function, evolve, and interact.",
+      "CourseThumb": "https://media.springernature.com/w580h326/nature-cms/uploads/collections/FP-Syn-Bio_hero-hi-res-cd49957f1e067a783326b9338ef8a119.jpg"
+   },
+   {
+      "key": 5,
+      "name": "ICT",
+      "CourseFee": 1600,
+      "CourseDetail": "ICT permeates all aspects of life, providing newer, better, and quicker ways for people to interact, network, seek help, gain access to information, and learn. ",
+      "CourseThumb": "https://image.shutterstock.com/image-vector/ict-information-communication-technology-concept-600w-1471785641.jpg"
+   },
+   {
+      "key": 6,
+      "name": "Accounting",
+      "CourseFee": 900,
+      "CourseDetail": "Why Is Accounting Important? Accounting plays a vital role in running a business because it helps you track income and expenditures.",
+      "CourseThumb": "https://www.merchantmaverick.com/wp-content/uploads/2016/08/bigstock-ACCOUNTING-inscription-coming-324977827.jpg"
+   },
+   {
+      "key": 7,
+      "name": "Finance",
+      "CourseFee": 950,
+      "CourseDetail": "Financial management helps a business to determine what money to spend, where to spend it and when it should be spent.",
+      "CourseThumb": "https://cloudinary.hbs.edu/hbsit/image/upload/s--wx5D2ABw--/f_auto,c_fill,h_375,w_750,/v20200101/5393409F6FB391494111C5EC16653C89.jpg"
+   },
+   {
+      "key": 8,
+      "name": "History",
+      "CourseFee": 980,
+      "CourseDetail": "History gives us the opportunity to learn from others past mistakes. It helps us understand the many reasons why people may behave the way they do",
+      "CourseThumb": "https://theendofhistory.net/wp-content/uploads/2019/03/depositphotos_4681227-stock-photo-erasing-history.jpg"
+   },
+   {
+      "key": 9,
+      "name": "Geography ",
+      "CourseFee": 1050,
+      "CourseDetail": "Geography helps us investigate and to think critically and creatively about the complexities of places, and different views and feelings relating to places",
+      "CourseThumb": "https://en.pimg.jp/048/135/596/1/48135596.jpg"
+   }
+]

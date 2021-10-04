@@ -1,0 +1,11 @@
+.teacher{
+   border: 1px solid gray;
+
+   border-radius: 20px;
+}
+.teacher-name{
+   color: #644592;
+}
+.head-border{
+   border-bottom: 1px solid lightcyan;
+}
